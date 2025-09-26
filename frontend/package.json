@@ -16,5 +16,8 @@
     "overrides": {
       "vite": "npm:rolldown-vite@7.1.12"
     }
+  },
+  "dependencies": {
+    "socket.io-client": "^4.8.1"
   }
 }
